@@ -1,4 +1,3 @@
-# MathiasParadza.github.io
 # Godspeed-Technologies
 
 
