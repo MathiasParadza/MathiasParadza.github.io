@@ -1,6 +1,5 @@
 # MathiasParadza.github.io
 # Godspeed-Technologies
-# HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
